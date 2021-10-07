@@ -347,13 +347,13 @@ while condition:
 # print(a[9])
 
 #    0 1 2 3 4 5 6 7 8 9
-a = [1,2,3,4,5,6,7,8,9,10]
+# a = [1,2,3,4,5,6,7,8,9,10]
 
-x = 0
+# x = 0
 
-while x < len(a):
-	print(a[x])
-	x += 2
+# while x < len(a):
+# 	print(a[x])
+# 	x += 2
 
 
 # x = 0
